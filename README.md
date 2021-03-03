@@ -2,13 +2,36 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-shreshth_tuli-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shreshth-tuli)](https://www.linkedin.com/in/shreshth-tuli)
 [![Website Badge](https://img.shields.io/badge/-github.io-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://shreshthtuli.github.io/)](https://shreshthtuli.github.io/)
-[![Twitter Badge](https://img.shields.io/badge/-@ShreshthTuli-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ShreshthTuli)](https://twitter.com/ShreshthTuli)
-[![Instagram Badge](https://img.shields.io/badge/-@shreshth475-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/shreshth475/)](https://instagram.com/shreshth475)
 [![Gmail Badge](https://img.shields.io/badge/-shreshthtuli-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:shreshthtuli@gmail.com)](mailto:shreshthtuli@gmail.com)
 [![GScholar Badge](https://img.shields.io/badge/-Shreshth_Tuli-4285f4?style=flat&logo=Google-Scholar&logoColor=white&link=https://scholar.google.com/citations?user=oD3zEsMAAAAJ)](https://scholar.google.com/citations?user=oD3zEsMAAAAJ)
 [![Publons Badge](https://img.shields.io/badge/-Shreshth_Tuli-336699?style=flat&logo=Publons&logoColor=white&link=https://publons.com/a/AAK-1236-2020/)](https://publons.com/a/AAK-1236-2020/)
+[![Twitter Badge](https://img.shields.io/badge/-@ShreshthTuli-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ShreshthTuli)](https://twitter.com/ShreshthTuli)
+[![Instagram Badge](https://img.shields.io/badge/-@shreshth475-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/shreshth475/)](https://instagram.com/shreshth475)
 
 Welcome to my profile! I'm a doctoral student at the Imperial College London. My main research areas are Deep Learning, Fog Computing, Internet of Things and Blockchain. Thanks for visiting and I'd love to connect!
+
+[![b](https://img.shields.io/badge/-3776AB?style=flat&logo=python&logoColor=white)]()
+[![b](https://img.shields.io/badge/-F37626?style=flat&logo=jupyter&logoColor=white)]()
+[![b](https://img.shields.io/badge/-EE4C2C?style=flat&logo=pytorch&logoColor=white)]()
+[![b](https://img.shields.io/badge/-FF6F00?style=flat&logo=tensorflow&logoColor=white)]()
+[![b](https://img.shields.io/badge/-EE0000?style=flat&logo=ansible&logoColor=white)]()
+[![b](https://img.shields.io/badge/-2496ED?style=flat&logo=docker&logoColor=white)]()
+[![b](https://img.shields.io/badge/-326CE5?style=flat&logo=kubernetes&logoColor=white)]()
+[![b](https://img.shields.io/badge/-E25A1C?style=flat&logo=apache-spark&logoColor=white)]()
+[![b](https://img.shields.io/badge/-0089D6?style=flat&logo=microsoft-azure&logoColor=white)]()
+[![b](https://img.shields.io/badge/-0078D7?style=flat&logo=azure-devops&logoColor=white)]()
+[![b](https://img.shields.io/badge/-0062AD?style=flat&logo=azure-functions&logoColor=white)]()
+[![b](https://img.shields.io/badge/-00599C?style=flat&logo=C&logoColor=white)]()
+[![b](https://img.shields.io/badge/-007396?style=flat&logo=java&logoColor=white)]()
+[![b](https://img.shields.io/badge/-F7DF1E?style=flat&logo=javascript&logoColor=white)]()
+[![b](https://img.shields.io/badge/-339933?style=flat&logo=node.js&logoColor=white)]()
+[![b](https://img.shields.io/badge/-777BB4?style=flat&logo=php&logoColor=white)]()
+[![b](https://img.shields.io/badge/-E34F26?style=flat&logo=html5&logoColor=white)]()
+[![b](https://img.shields.io/badge/-E34F26?style=flat&logo=html5&logoColor=white)]()
+[![b](https://img.shields.io/badge/-41CD52?style=flat&logo=qt&logoColor=white)]()
+[![b](https://img.shields.io/badge/-00979D?style=flat&logo=arduino&logoColor=white)]()
+[![b](https://img.shields.io/badge/-AB2B28?style=flat&logo=freebsd&logoColor=white)]()
+
 
 <!--
 **shreshthtuli/shreshthtuli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
