@@ -1,5 +1,7 @@
 ### Hi, I'm Shreshth 👋
 
+Welcome to my profile! I'm a doctoral student at the Imperial College London. My main research areas are Deep Learning, Fog Computing, Internet of Things and Blockchain. Thanks for visiting and I'd love to connect!
+
 [![Linkedin Badge](https://img.shields.io/badge/-shreshth_tuli-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shreshth-tuli)](https://www.linkedin.com/in/shreshth-tuli)
 [![Website Badge](https://img.shields.io/badge/-github.io-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://shreshthtuli.github.io/)](https://shreshthtuli.github.io/)
 [![Gmail Badge](https://img.shields.io/badge/-shreshthtuli-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:shreshthtuli@gmail.com)](mailto:shreshthtuli@gmail.com)
@@ -7,8 +9,6 @@
 [![Publons Badge](https://img.shields.io/badge/-Shreshth_Tuli-336699?style=flat&logo=Publons&logoColor=white&link=https://publons.com/a/AAK-1236-2020/)](https://publons.com/a/AAK-1236-2020/)
 [![Twitter Badge](https://img.shields.io/badge/-@ShreshthTuli-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ShreshthTuli)](https://twitter.com/ShreshthTuli)
 [![Instagram Badge](https://img.shields.io/badge/-@shreshth475-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/shreshth475/)](https://instagram.com/shreshth475)
-
-Welcome to my profile! I'm a doctoral student at the Imperial College London. My main research areas are Deep Learning, Fog Computing, Internet of Things and Blockchain. Thanks for visiting and I'd love to connect!
 
 [![b](https://img.shields.io/badge/-3776AB?style=flat&logo=python&logoColor=white)]()
 [![b](https://img.shields.io/badge/-F37626?style=flat&logo=jupyter&logoColor=white)]()
