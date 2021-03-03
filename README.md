@@ -8,6 +8,8 @@
 [![GScholar Badge](https://img.shields.io/badge/-Shreshth_Tuli-4285f4?style=flat&logo=Google-Scholar&logoColor=white&link=https://scholar.google.com/citations?user=oD3zEsMAAAAJ)](https://scholar.google.com/citations?user=oD3zEsMAAAAJ)
 [![Publons Badge](https://img.shields.io/badge/-Shreshth_Tuli-336699?style=flat&logo=Publons&logoColor=white&link=https://publons.com/a/AAK-1236-2020/)](https://publons.com/a/AAK-1236-2020/)
 
+Welcome to my profile! I'm a doctoral student at the Imperial College London. My main research areas are Deep Learning, Fog Computing, Internet of Things and Blockchain. Thanks for visiting and I'd love to connect!
+
 <!--
 **shreshthtuli/shreshthtuli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
