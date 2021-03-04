@@ -1,6 +1,6 @@
 ### Hi, I'm Shreshth 👋
 
-Welcome to my profile! I'm a doctoral student at the Imperial College London. My main research areas are Deep Learning, Fog Computing, Internet of Things and Blockchain. Thanks for visiting and I'd love to connect!
+Welcome to my profile! I'm a doctoral student at the Department of Computing, Imperial College London. My main research areas are Deep Learning, Fog Computing, Internet of Things and Blockchain. Thanks for visiting and I'd love to connect!
 
 [![Linkedin Badge](https://img.shields.io/badge/-shreshth_tuli-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shreshth-tuli)](https://www.linkedin.com/in/shreshth-tuli)
 [![Website Badge](https://img.shields.io/badge/-github.io-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://shreshthtuli.github.io/)](https://shreshthtuli.github.io/)
