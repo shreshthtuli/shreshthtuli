@@ -2,14 +2,6 @@
 
 Welcome to my profile! I'm a doctoral student at the Department of Computing, Imperial College London. My main research areas are Deep Learning, Fog Computing, Internet of Things and Blockchain. Thanks for visiting and I'd love to connect!
 
-[![Linkedin Badge](https://img.shields.io/badge/-shreshth_tuli-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shreshth-tuli)](https://www.linkedin.com/in/shreshth-tuli)
-[![Website Badge](https://img.shields.io/badge/-github.io-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://shreshthtuli.github.io/)](https://shreshthtuli.github.io/)
-[![Gmail Badge](https://img.shields.io/badge/-shreshthtuli-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:shreshthtuli@gmail.com)](mailto:shreshthtuli@gmail.com)
-[![GScholar Badge](https://img.shields.io/badge/-Shreshth_Tuli-4285f4?style=flat&logo=Google-Scholar&logoColor=white&link=https://scholar.google.com/citations?user=oD3zEsMAAAAJ)](https://scholar.google.com/citations?user=oD3zEsMAAAAJ)
-[![Publons Badge](https://img.shields.io/badge/-Shreshth_Tuli-336699?style=flat&logo=Publons&logoColor=white&link=https://publons.com/a/AAK-1236-2020/)](https://publons.com/a/AAK-1236-2020/)
-[![Twitter Badge](https://img.shields.io/badge/-@ShreshthTuli-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ShreshthTuli)](https://twitter.com/ShreshthTuli)
-[![Instagram Badge](https://img.shields.io/badge/-@shreshth475-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/shreshth475/)](https://instagram.com/shreshth475)
-
 <a href="https://github.com/shreshthtuli">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=shreshthtuli&&show_icons=true&count_private=true" />
 </a>
@@ -17,6 +9,13 @@ Welcome to my profile! I'm a doctoral student at the Department of Computing, Im
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreshthtuli&layout=compact&hide=css,VHDL,Assembly,Ocaml&exclude_repo=FogBus,BlackJack,List-Scheduling,Adaptive-profiling-with-Q-learning,SAT-Formulator,High-availability-clustering-of-Odroid-SBC,CloudSim,AMMU-gem5,android-6.0.1_kernel,OpenMP,Principal-Component-Analysis-CUDA,FlockSim,xv6,Pattern-Matching,Goodix-Gt9xx-driver,OpenMP,Principal-Component-Analysis,Cache-Bandwidth-Optimization,android-7.1.2_kernel,k-Means-clustering-parallel,xv6-public,Machine-Learning,ai4cpp,4-Way-set-associative-lockable-cache,COL719_Assignments,Adaptive-profiling-with-Q-learning,Conference-Scheduler,8-Puzzle-game-Djikstras-algorithm,B-Tree-data-structure-with-duplicates-in-java,Image-compression-with-Java,&langs_count=10" />
 </a>
 
+[![Linkedin Badge](https://img.shields.io/badge/-shreshth_tuli-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shreshth-tuli)](https://www.linkedin.com/in/shreshth-tuli)
+[![Website Badge](https://img.shields.io/badge/-github.io-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://shreshthtuli.github.io/)](https://shreshthtuli.github.io/)
+[![Gmail Badge](https://img.shields.io/badge/-shreshthtuli-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:shreshthtuli@gmail.com)](mailto:shreshthtuli@gmail.com)
+[![GScholar Badge](https://img.shields.io/badge/-Shreshth_Tuli-4285f4?style=flat&logo=Google-Scholar&logoColor=white&link=https://scholar.google.com/citations?user=oD3zEsMAAAAJ)](https://scholar.google.com/citations?user=oD3zEsMAAAAJ)
+[![Publons Badge](https://img.shields.io/badge/-Shreshth_Tuli-336699?style=flat&logo=Publons&logoColor=white&link=https://publons.com/a/AAK-1236-2020/)](https://publons.com/a/AAK-1236-2020/)
+[![Twitter Badge](https://img.shields.io/badge/-@ShreshthTuli-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ShreshthTuli)](https://twitter.com/ShreshthTuli)
+[![Instagram Badge](https://img.shields.io/badge/-@shreshth475-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/shreshth475/)](https://instagram.com/shreshth475)
 
 [![b](https://img.shields.io/badge/-3776AB?style=flat&logo=python&logoColor=white&link=https://github.com/shreshthtuli)]()
 [![b](https://img.shields.io/badge/-F37626?style=flat&logo=jupyter&logoColor=white&link=https://github.com/shreshthtuli)]()
