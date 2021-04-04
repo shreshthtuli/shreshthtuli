@@ -14,7 +14,7 @@ Welcome to my profile! I'm a doctoral student at the Department of Computing, Im
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=shreshthtuli&&show_icons=true" />
 </a>
 <a href="https://github.com/shreshthtuli">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreshthtuli&layout=compact&hide=css,java,VHDL,Assembly&langs_count=8" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreshthtuli&layout=compact&hide=css,java,VHDL,Assembly,C,C++&langs_count=10" />
 </a>
 
 
