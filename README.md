@@ -14,7 +14,7 @@ Welcome to my profile! I'm a doctoral student at the Department of Computing, Im
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=shreshthtuli&&show_icons=true" />
 </a>
 <a href="https://github.com/shreshthtuli">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreshthtuli&layout=compact&hide=cssexclude_repo=FogBus,CloudSim,AMMU-gem5,android-6.0.1_kernel,xv6,Pattern-Matching,Goodix-Gt9xx-driver,OpenMP,Principal-Component-Analysis,Cache-Bandwidth-Optimization,android-7.1.2_kernel,k-Means-clustering-parallel,xv6-public,Machine-Learning,ai4cpp,4-Way-set-associative-lockable-cache,COL719_Assignments,Adaptive-profiling-with-Q-learning,Conference-Scheduler,8-Puzzle-game-Djikstras-algorithm,B-Tree-data-structure-with-duplicates-in-java,Image-compression-with-Java,&langs_count=10" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreshthtuli&layout=compact&hide=css?exclude_repo=FogBus,CloudSim,AMMU-gem5,android-6.0.1_kernel,xv6,Pattern-Matching,Goodix-Gt9xx-driver,OpenMP,Principal-Component-Analysis,Cache-Bandwidth-Optimization,android-7.1.2_kernel,k-Means-clustering-parallel,xv6-public,Machine-Learning,ai4cpp,4-Way-set-associative-lockable-cache,COL719_Assignments,Adaptive-profiling-with-Q-learning,Conference-Scheduler,8-Puzzle-game-Djikstras-algorithm,B-Tree-data-structure-with-duplicates-in-java,Image-compression-with-Java,&langs_count=10" />
 </a>
 
 
