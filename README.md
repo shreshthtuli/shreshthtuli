@@ -10,6 +10,14 @@ Welcome to my profile! I'm a doctoral student at the Department of Computing, Im
 [![Twitter Badge](https://img.shields.io/badge/-@ShreshthTuli-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ShreshthTuli)](https://twitter.com/ShreshthTuli)
 [![Instagram Badge](https://img.shields.io/badge/-@shreshth475-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/shreshth475/)](https://instagram.com/shreshth475)
 
+<a href="https://github.com/shreshthtuli">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shreshthtuli&&show_icons=true" />
+</a>
+<a href="https://github.com/shreshthtuli">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreshthtuli&layout=compact&hide=css&langs_count=8" />
+</a>
+
+
 [![b](https://img.shields.io/badge/-3776AB?style=flat&logo=python&logoColor=white&link=https://github.com/shreshthtuli)]()
 [![b](https://img.shields.io/badge/-F37626?style=flat&logo=jupyter&logoColor=white&link=https://github.com/shreshthtuli)]()
 [![b](https://img.shields.io/badge/-EE4C2C?style=flat&logo=pytorch&logoColor=white&link=https://github.com/shreshthtuli)]()
