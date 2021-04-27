@@ -3,10 +3,10 @@
 Welcome to my profile! I'm a doctoral student at the Department of Computing, Imperial College London. My main research areas are Deep Learning, Fog Computing, Internet of Things and Blockchain. Thanks for visiting and I'd love to connect!
 
 <a href="https://github.com/shreshthtuli">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shreshthtuli&&show_icons=true&theme=radical&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shreshthtuli&&show_icons=true&theme=algolia&count_private=true" />
 </a>
 <a href="https://github.com/shreshthtuli">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreshthtuli&layout=compact&hide=css,VHDL,Assembly,Ocaml,Tcl&langs_count=7&exclude_repo=FogBus,BlackJack,List-Scheduling,Adaptive-profiling-with-Q-learning,SAT-Formulator,High-availability-clustering-of-Odroid-SBC,CloudSim,AMMU-gem5,android-6.0.1_kernel,OpenMP,Principal-Component-Analysis-CUDA,FlockSim,xv6,Pattern-Matching,Goodix-Gt9xx-driver,OpenMP,Principal-Component-Analysis,Cache-Bandwidth-Optimization,android-7.1.2_kernel,k-Means-clustering-parallel,xv6-public,Machine-Learning,ai4cpp,4-Way-set-associative-lockable-cache,COL719_Assignments,Adaptive-profiling-with-Q-learning,Conference-Scheduler,&langs_count=10" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreshthtuli&layout=compact&hide=css,VHDL,Assembly,Ocaml,Tcl&langs_count=7&theme=algolia&exclude_repo=FogBus,BlackJack,List-Scheduling,Adaptive-profiling-with-Q-learning,SAT-Formulator,High-availability-clustering-of-Odroid-SBC,CloudSim,AMMU-gem5,android-6.0.1_kernel,OpenMP,Principal-Component-Analysis-CUDA,FlockSim,xv6,Pattern-Matching,Goodix-Gt9xx-driver,OpenMP,Principal-Component-Analysis,Cache-Bandwidth-Optimization,android-7.1.2_kernel,k-Means-clustering-parallel,xv6-public,Machine-Learning,ai4cpp,4-Way-set-associative-lockable-cache,COL719_Assignments,Adaptive-profiling-with-Q-learning,Conference-Scheduler,&langs_count=10" />
 </a>
   
     
