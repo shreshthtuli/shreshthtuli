@@ -17,7 +17,7 @@ Welcome to my profile! I'm a doctoral student at the Department of Computing, Im
 [![GScholar Badge](https://img.shields.io/badge/-Shreshth_Tuli-4285f4?style=flat&logo=Google-Scholar&logoColor=white&link=https://scholar.google.com/citations?user=oD3zEsMAAAAJ)](https://scholar.google.com/citations?user=oD3zEsMAAAAJ)
 [![Publons Badge](https://img.shields.io/badge/-Shreshth_Tuli-336699?style=flat&logo=Publons&logoColor=white&link=https://publons.com/a/AAK-1236-2020/)](https://publons.com/a/AAK-1236-2020/)
 [![Twitter Badge](https://img.shields.io/badge/-@ShreshthTuli-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ShreshthTuli)](https://twitter.com/ShreshthTuli)
-[![Instagram Badge](https://img.shields.io/badge/-@shreshth475-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/shreshth475/)](https://instagram.com/shreshth475)
+[![Instagram Badge](https://img.shields.io/badge/-@shreshth.tuli-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/shreshth.tuli/)](https://instagram.com/shreshth.tuli)
 
 [![b](https://img.shields.io/badge/-3776AB?style=flat&logo=python&logoColor=white&link=https://github.com/shreshthtuli)]()
 [![b](https://img.shields.io/badge/-F37626?style=flat&logo=jupyter&logoColor=white&link=https://github.com/shreshthtuli)]()
